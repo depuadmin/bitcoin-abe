@@ -70,8 +70,8 @@ CHAIN_CONFIG = [
      "code3":"SCN", "address_version":"\x7d", "magic":"\xde\xad\xba\xbe"},
     {"chain":"ScTestnet",
      "code3":"SC0", "address_version":"\x6f", "magic":"\xca\xfe\xba\xbe"},
-    {"chain":"Worldcoin",
-     "code3":"WDC", "address_version":"\x49", "magic":"\xfb\xc0\xb6\xdb"},
+    {"chain":"ProtoShares",
+     "code3":"PTS", "address_version":"\x38", "magic":"\xf9\xbd\xb5\xd9"},
     #{"chain":"",
     # "code3":"", "address_version":"\x", "magic":""},
     ]
